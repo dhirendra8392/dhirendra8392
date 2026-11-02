@@ -11,14 +11,14 @@
 </div>
 
 ---
-
 ## 👋 About Me
 
-I'm **Dhirendra Sahani**, a data-focused engineering student who loves building **SQL data warehouses**, **Power BI dashboards**, and **Python analytics** that turn raw data into actionable business insights.
+I'm **Dhirendra Sahani**, an engineering student who loves turning raw data into insights, from **SQL data warehouses** and **Power BI dashboards** to **ML models**, and building full-stack apps like **Devmesh**.
 
-- 🎓 **B.Tech — Electronics & Instrumentation Engineering** · NIT Agartala
+- 🎓 **B.Tech — Electronics & Instrumentation Engineering** · NIT Agartala (2027)
 - 🎯 Career Path: **Data Analyst → Data Engineer**
 - 🧠 Focus: SQL, Data Warehousing, Power BI, Python, Machine Learning
+- 🌱 Exploring: Full-stack development, real-time systems, and APIs
 
 ---
 
@@ -31,9 +31,11 @@ I'm **Dhirendra Sahani**, a data-focused engineering student who loves building 
 ### Skills in Action
 - **SQL / T-SQL**: joins, CTEs, subqueries, window functions
 - **Data Warehousing**: ETL, data modeling, Bronze → Silver → Gold architecture
-- **Analytics**: Power BI dashboards, DAX, KPIs, EDA, storytelling with data
+- **Analytics**: Power BI dashboards, DAX, KPIs, EDA, customer segmentation
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, feature engineering
-- **Machine Learning**: regression, classification, scikit-learn
+- **Machine Learning**: regression, scikit-learn, price prediction models
+- **Full-Stack Development**: React, TypeScript, Node.js, Express, MongoDB
+- **Real-Time Systems**: Socket.IO chat, JWT authentication, REST APIs
 
 ### What I Value
 - Consistency over motivation
@@ -42,12 +44,11 @@ I'm **Dhirendra Sahani**, a data-focused engineering student who loves building 
 
 </td>
 <td width="40%" valign="top">
-
 ### Quick Facts
 - 📍 India
 - 🎓 Engineering Student · 2027 Batch
 - 💼 Open to: Internships & Full-time roles
-- 🧩 Interests: SQL, Power BI, Data Engineering, ML
+- 🧩 Interests: Data Engineering, Business Analytics, ML, Full-Stack Development
 - 🏆 JEE Main 2023 · 96.58 percentile
 - 🤝 Core Member, WeCan Club (free tuition for underprivileged children)
 - ☕ Fuel: Coffee + A Tough Problem
@@ -88,16 +89,17 @@ Data warehouse built on Medallion Architecture (Bronze → Silver → Gold) with
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Devmesh
 
-Write 2 to 3 lines about what Devmesh does and the problem it solves.
 
-**Stack:** Add your tech stack here
+### 🧩 Devmesh — Developer Networking Platform
+
+Full-stack platform where developers create profiles, discover peers with Pass/Connect actions, manage connection requests, and chat in real time. JWT cookie auth, bcrypt password hashing, and a responsive UI.
+
+**Stack:** React · TypeScript · Redux Toolkit · Node.js · Express · MongoDB · Socket.IO
 
 <a href="https://github.com/dhirendra8392/Devmesh">📁 View Repo</a>
 
 </td>
-<td width="50%" valign="top">
 
 ### 💻 Laptop Price Predictor
 
@@ -116,7 +118,7 @@ Machine learning model that predicts laptop prices from specifications such as b
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,github,git,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,pandas,numpy,sklearn,powerbi,mysql,react,ts,nodejs,express,mongodb,redux,tailwind,vite,git,github,vscode" />
 </p>
 
 **Also:** MS SQL Server · Power BI · DAX · Power Query · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn
