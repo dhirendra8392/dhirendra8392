@@ -11,6 +11,7 @@
 </div>
 
 ---
+
 ## 👋 About Me
 
 I'm **Dhirendra Sahani**, an engineering student who loves turning raw data into insights, from **SQL data warehouses** and **Power BI dashboards** to **ML models**, and building full-stack apps like **Devmesh**.
@@ -29,6 +30,7 @@ I'm **Dhirendra Sahani**, an engineering student who loves turning raw data into
 <td width="60%" valign="top">
 
 ### Skills in Action
+
 - **SQL / T-SQL**: joins, CTEs, subqueries, window functions
 - **Data Warehousing**: ETL, data modeling, Bronze → Silver → Gold architecture
 - **Analytics**: Power BI dashboards, DAX, KPIs, EDA, customer segmentation
@@ -38,13 +40,16 @@ I'm **Dhirendra Sahani**, an engineering student who loves turning raw data into
 - **Real-Time Systems**: Socket.IO chat, JWT authentication, REST APIs
 
 ### What I Value
+
 - Consistency over motivation
 - Real-world projects over tutorials
 - Systems that scale and insights that drive action
 
 </td>
 <td width="40%" valign="top">
+
 ### Quick Facts
+
 - 📍 India
 - 🎓 Engineering Student · 2027 Batch
 - 💼 Open to: Internships & Full-time roles
@@ -89,8 +94,6 @@ Data warehouse built on Medallion Architecture (Bronze → Silver → Gold) with
 <tr>
 <td width="50%" valign="top">
 
-
-
 ### 🧩 Devmesh — Developer Networking Platform
 
 Full-stack platform where developers create profiles, discover peers with Pass/Connect actions, manage connection requests, and chat in real time. JWT cookie auth, bcrypt password hashing, and a responsive UI.
@@ -100,6 +103,7 @@ Full-stack platform where developers create profiles, discover peers with Pass/C
 <a href="https://github.com/dhirendra8392/Devmesh">📁 View Repo</a>
 
 </td>
+<td width="50%" valign="top">
 
 ### 💻 Laptop Price Predictor
 
@@ -121,11 +125,11 @@ Machine learning model that predicts laptop prices from specifications such as b
 <img src="https://skillicons.dev/icons?i=c,cpp,python,pandas,numpy,sklearn,powerbi,mysql,react,ts,nodejs,express,mongodb,redux,tailwind,vite,git,github,vscode" />
 </p>
 
-**Also:** MS SQL Server · Power BI · DAX · Power Query · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn
+**Also:** MS SQL Server · DAX · Power Query · Matplotlib · Seaborn · Socket.IO · JWT
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
