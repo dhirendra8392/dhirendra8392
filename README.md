@@ -58,14 +58,58 @@ I'm **Dhirendra Sahani**, a data-focused engineering student who loves building 
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Banking Risk & Loan Analytics**](https://github.com/dhirendra8392/Banking-Risk-Loan-Analytics) | Interactive multi-page Power BI dashboard analyzing loan exposure, deposits, customer segments and financial KPIs, backed by Python EDA and correlation analysis | `Power BI` `DAX` `Python` `Pandas` `Seaborn` |
-| [**SQL Data Warehouse Project**](https://github.com/dhirendra8392/sql-data-warehouse-project) | Data warehouse built on Bronze, Silver and Gold layers with ETL, data cleaning, analysis-ready views and reporting queries | `MS SQL Server` `T-SQL` `ETL` `Data Modeling` |
-| [**Devmesh**](https://github.com/dhirendra8392/Devmesh) | Add a one-line description of Devmesh here | `Add tech stack` |
-| [**Laptop Price Predictor**](https://github.com/dhirendra8392/laptop-price-predictor) | Machine learning model that predicts laptop prices from their specifications | `Python` `scikit-learn` `Pandas` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Banking Risk & Loan Analytics Dashboard
+
+Interactive multi-page Power BI dashboard analyzing banking operations, customer profiles, loan exposure, deposits, and financial KPIs. Python EDA, correlation analysis, and feature engineering included.
+
+**Stack:** Power BI · DAX · Python · Pandas · Seaborn
+
+<a href="https://github.com/dhirendra8392/Banking-Risk-Loan-Analytics">📁 View Repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ SQL Data Warehouse Project
+
+Data warehouse built on Medallion Architecture (Bronze → Silver → Gold) with ETL pipelines, data cleaning, analysis-ready views, and reporting queries.
+
+**Stack:** MS SQL Server · T-SQL · ETL · Data Modeling
+
+<a href="https://github.com/dhirendra8392/sql-data-warehouse-project">📁 View Repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Devmesh
+
+Write 2 to 3 lines about what Devmesh does and the problem it solves.
+
+**Stack:** Add your tech stack here
+
+<a href="https://github.com/dhirendra8392/Devmesh">📁 View Repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Laptop Price Predictor
+
+Machine learning model that predicts laptop prices from specifications such as brand, RAM, storage, processor, and screen size.
+
+**Stack:** Python · Pandas · Scikit-learn · Feature Engineering
+
+<a href="https://github.com/dhirendra8392/laptop-price-predictor">📁 View Repo</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
